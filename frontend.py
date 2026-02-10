@@ -3,7 +3,7 @@ import requests
 
 API_URL = "http://127.0.0.1:8000/predict" 
 
-st.title("Insurance Premium Category Predictor")
+st.title("Insurance Premium Category Predictor")#DEMO PROJECT 
 st.markdown("Enter your details below:")
 
 # Input fields
