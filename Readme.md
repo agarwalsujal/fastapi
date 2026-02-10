@@ -1,6 +1,5 @@
 # Insurance Premium Category Predictor
-
-A small FastAPI + Streamlit project that trains a classifier to predict insurance premium categories using a simple feature pipeline. The project includes a notebook to train and save a model, a FastAPI backend that serves predictions, and a Streamlit frontend for interactive use.
+DEMO FastAPI + Streamlit project for training a classifier to predict insurance premium categories based on user features. The project includes a notebook for training, a FastAPI backend for predictions, and a Streamlit frontend for interactive use. 
 
 **Key Features**
 - **Train**: `fastapi_ml_model.ipynb` — prepares features, trains a RandomForest pipeline, and saves `model.pkl`.
