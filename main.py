@@ -148,4 +148,6 @@ def delete_patient(
     
     save_data(data)
     
-    return JSONResponse(content={"message": "Patient deleted successfully"})
+    return JSONResponse(content={"message": "Patient deleted successfully"})\
+    
+
